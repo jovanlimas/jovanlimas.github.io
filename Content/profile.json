@@ -23,7 +23,9 @@
   "Role": "Software Engineer Intern",
   "EmploymentText": "June 2024 -- Sep. 2024",
   "Skills": ["C++", " JavaScript", " Node", " CSS"," HTML"],
-  "SkillsText": "Languages: TypeScript, JavaScript, Java, C#, C++, SQL, NoSQL (MongoDB), Python, HTML/CSS\nFrameworks/Libraries: React, Node.js, Express.js, Material UI, .NET, Jest, JUnit\nDeveloper Tools: Git, VS Code, Visual Studio, Postman, Swagger, Docker, Bamboo, Linux, IntelliJ, Eclipse, Jira",
+  "SkillsText": "Languages: TypeScript, JavaScript, Java, C#, C++, SQL, NoSQL (MongoDB), Python, HTML/CSS",
+  "SkillsText": "Frameworks/Libraries: React, Node.js, Express.js, Material UI, .NET, Jest, JUnit",
+  "SkillsText": "Developer Tools: Git, VS Code, Visual Studio, Postman, Swagger, Docker, Bamboo, Linux, IntelliJ, Eclipse, Jira",
   "Resume": "student-resume.pdf"  
 },
 "Project1": {
