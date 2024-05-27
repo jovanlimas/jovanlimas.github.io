@@ -4,46 +4,47 @@
   "Currently": "Computer Science Student",
   "Headshot": "student-portrait.png",
   "Thumbnail": "student-logo.webp",
-  "AboutText": "Hi, I am Jovan Limas. I am a passionate computer science student with a keen interest in software development and programming. Currently, I am pursuing my undergraduate degree at Seattle Pacific University. I am dedicated to expanding my knowledge and skills in various areas of computer science, with a particular focus on C++ programming.<br><br>I enjoy tackling challenging programming projects and I thrive in collaborative environments where I can contribute my expertise and learn from my peers.<br><br>Beyond the classroom, I actively engage in extracurricular activities related to computer science, including hackathons, coding competitions, and open-source contributions. I believe in the importance of continuous learning and seek out opportunities to explore new technologies and methodologies."
+  "AboutText": "Hi, I am Jovan Limas. I am passionate about Software Engineering and my faith."
 },
 "Contact": {
   "EMail": "limasj@spu.edu",
-  "Phone": "(206) 555-5555",
+  "Phone": "(206) 226-2203",
   "Portfolio": "https://www.github.com/jovanlimas/",
-  "LinkedIn": "https://linkedin.com/jovanlimas/",
+  "LinkedIn": "https://linkedin.com/in/jovanlimas/",
   "GitHub": "https://www.github.com/jovanlimas/"
 },
 "Experience": {
-  "ExperienceText": "Use this area to explain how you got to where you are and what you are currently doing now.<br><br>This is a good spot to talk yourself up.",
-  "School": "Seattle Pacific University",
-  "Major": "Computer Science",
+  "ExperienceText": "",
+  "School": "<b>Seattle Pacific University</b>",
+  "Major": "Bachelor's Degree in Computer Science",
   "Graduation": "June 2025",
   "EducationText": "Dean's List: Autumn 2023, Winter 2024",
-  "Employment": "Software Engineer Intern, Liberty Mutual, June 2024 -- Sep. 2024",
-  "Role": "Software Engineer Intern, Liberty Mutual, May 2023 -- Aug. 2023",
-  "EmploymentText": "Software Engineer Intern, State Auto Insurance (acquired by Liberty Mutual), June 2022 -- Sep. 2022",
-  "SkillsText": "Languages: TypeScript, JavaScript, Java, C#, C++, SQL, NoSQL (MongoDB), Python, HTML/CSS <br>Frameworks/Libraries: React, Node.js, Express.js, Material UI, .NET, Jest, JUnit <br>Developer Tools: Git, VS Code, Visual Studio, Postman, Swagger, Docker, Bamboo, Linux, IntelliJ, Eclipse, Jira",
+  "Employment": "<b>Software Engineer Intern</b>, Liberty Mutual, June 2024 - Sep. 2024<br><br>",
+  "Role": "<b>Software Engineer Intern</b>, Liberty Mutual, May 2023 - Aug. 2023<br><br>",
+  "EmploymentText": "<b>Software Engineer Intern</b>, State Auto Insurance, June 2022 - Sep. 2022<br>",
+  "Skills": [],
+  "SkillsText": "<b>Languages:</b> TypeScript, JavaScript, Java, C#, C++, SQL, NoSQL (MongoDB), Python, HTML/CSS <br><br><b>Frameworks/Libraries:</b> React, Node.js, Express.js, Material UI, .NET, Jest, JUnit <br><br><b>Developer Tools:</b> Git, VS Code, Visual Studio, Postman, Swagger, Docker, Bamboo, Linux, IntelliJ, Eclipse, Jira",
   "Resume": "student-resume.pdf"  
 },
 "Project1": {
-    "Title": "Interesting Project 1",
-    "Desc": "This is a description of Project One.<br><br>It has a GitHub repo and more details shown in screenshots.",
-    "GitHubRepo": "https://github.com",
+    "Title": "The Pocket Zoo | <i>React, JavaScript</i>",
+    "Desc": "a responsive web application displaying dog facts and photos.<br><br><br><br>",
+    "GitHubRepo": "https://github.com/jovanlimas/ThePocketZoo",
     "MainImage": "P1Main.png",
-    "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
+    "DetailImages": ["P1Detail1.png","P1Detail2.png"]
   },
   "Project2": {
-    "Title": "Interesting Project 2",
-    "Desc": "This is a description of Project Two.<br><br>It also has a GitHub repo and more details shown in screenshots.",
-    "GitHubRepo": "https://github.com",
-    "MainImage": "P2Main.png",
-    "DetailImages": ["P2Detail1.png","P2Detail2.png","P2Detail3.png","P2Detail4.png"]
+    "Title": "",
+    "Desc": "",
+    "GitHubRepo": "",
+    "MainImage": "",
+    "DetailImages": []
   },
   "Project3": {
-    "Title": "Interesting Project 3",
-    "Desc": "This is a description of Project Three.<br><br>It does not have a GitHub repo or any additional screenshots.",
+    "Title": "",
+    "Desc": "",
     "GitHubRepo": "",
-    "MainImage": "P3Main.png",
+    "MainImage": "",
     "DetailImages": []
   },
   "Project4": {
