@@ -34,11 +34,11 @@
     "DetailImages": ["P1Detail1.png","P1Detail2.png"]
   },
   "Project2": {
-    "Title": "",
-    "Desc": "",
-    "GitHubRepo": "",
-    "MainImage": "",
-    "DetailImages": []
+    "Title": "iPsalm | <i>React, TypeScript, Material UI</i>",
+    "Desc": "a place to read the Psalms.<br><br><br><br>",
+    "GitHubRepo": "https://github.com/jovanlimas/ipsalms",
+    "MainImage": "P2Main.png",
+    "DetailImages": ["P2Detail1.png", "P2Detail2.png"]
   },
   "Project3": {
     "Title": "",
